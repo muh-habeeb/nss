@@ -14,7 +14,7 @@ window.addEventListener("blur", () =>{
     document.title = "Came Back :)" ;
 })
 window.addEventListener("focus", () =>{
-    document.write = docTitle;
+    document.title = docTitle;
 })
 
 

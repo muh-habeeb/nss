@@ -11,6 +11,9 @@
 }html{
     scroll-behavior: smooth;
     background-color: #0316ed;
+}::selection{
+  color: #000;
+  background:#00ff3c;
 }
 ::-webkit-scrollbar{
     display: block;
