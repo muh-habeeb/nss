@@ -1,5 +1,5 @@
 window.addEventListener("load",()=>{
-    alert("this is not official web site of gvhss chettiyankinar! this was a learning porject!, this website has nothing to do with the institution");
+    alert("Before you go!. This is not a official web site of gvhss chettiyankinar! this was a learning porject!, this website has nothing to do with the institution");
     document.querySelector("header").style.display ="none";
     document.querySelector(".body").style.display ="none";
     setTimeout(()=>{
